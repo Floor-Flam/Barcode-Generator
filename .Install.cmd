@@ -1,0 +1,1 @@
+pip install python-barcode Pillow pywin32
